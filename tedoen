@@ -13,8 +13,9 @@ LIJST VAN DINGEN DIE WE MOETEN ADDEN
 -Player Vannish = ✘
 -World protect = ✘
 -World inspection = ✘
--Chat Managment = ✘ working on chat mute deel 1
--Slow chat = ✘
+-Slow chat = ✔
+-Stop chat = ✔
+-Clear chat = ✔
 -Anti swear = ✘
 -anti spam = ✘
 -announcer = ✔
